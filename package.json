@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-sdk/middleware-recursion-detection": "^3.734.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
